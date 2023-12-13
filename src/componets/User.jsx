@@ -2,7 +2,6 @@
 
 const User = ({data}) => {
   const{id,name,email} = data
-  console.log(data)
   return (
     <div className="w-[32%] p-7 bg-indigo-300 mb-6 rounded-lg">
       <h1 className=" text-lg font-bold text-gray-900">ID : {id}</h1>

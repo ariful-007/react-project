@@ -1,3 +1,4 @@
+/* eslint-disable */
 
 const Serves = ({title,Detailes,img}) => {
   return (
