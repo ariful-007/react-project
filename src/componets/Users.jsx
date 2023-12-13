@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import User from "./user";
+import User from "../componets/User";
 
 
 const Users = () => {
