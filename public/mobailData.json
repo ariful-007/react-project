@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "brand": "Samsung",
+    "model": "Galaxy A51",
+    "price": 299.99,
+    "storage": "64GB",
+    "color": "Black",
+    "imageUrl": "https://example.com/samsung-a51.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Apple",
+    "model": "iPhone SE",
+    "price": 399.99,
+    "storage": "128GB",
+    "color": "White",
+    "imageUrl": "https://example.com/iphone-se.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9",
+    "price": 229.99,
+    "storage": "64GB",
+    "color": "Forest Green",
+    "imageUrl": "https://example.com/redmi-note-9.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "OnePlus",
+    "model": "Nord 2",
+    "price": 449.99,
+    "storage": "256GB",
+    "color": "Blue Haze",
+    "imageUrl": "https://example.com/oneplus-nord-2.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Google",
+    "model": "Pixel 5a",
+    "price": 399.99,
+    "storage": "128GB",
+    "color": "Clearly White",
+    "imageUrl": "https://example.com/pixel-5a.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "Huawei",
+    "model": "P40 Lite",
+    "price": 279.99,
+    "storage": "128GB",
+    "color": "Midnight Black",
+    "imageUrl": "https://example.com/huawei-p40-lite.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Motorola",
+    "model": "Moto G Power",
+    "price": 199.99,
+    "storage": "64GB",
+    "color": "Smoke Black",
+    "imageUrl": "https://example.com/moto-g-power.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "Sony",
+    "model": "Xperia 10 III",
+    "price": 499.99,
+    "storage": "128GB",
+    "color": "Blue",
+    "imageUrl": "https://example.com/xperia-10-iii.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "LG",
+    "model": "Stylo 6",
+    "price": 149.99,
+    "storage": "32GB",
+    "color": "Titan Gray",
+    "imageUrl": "https://example.com/lg-stylo-6.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Nokia",
+    "model": "5.4",
+    "price": 229.99,
+    "storage": "64GB",
+    "color": "Polar Night",
+    "imageUrl": "https://example.com/nokia-5.4.jpg"
+  }
+]
