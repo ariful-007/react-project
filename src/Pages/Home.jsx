@@ -5,6 +5,7 @@ import Services from "../componets/Services";
 import Users from "../componets/Users";
 import Testmonial from "../componets/Testmonial";
 import Contact from "../componets/Contact";
+import Products from "../componets/Products";
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Aboute></Aboute>
       <Services></Services>
       <Projects></Projects>
+      <Products></Products>
       <Users></Users>
       <Testmonial></Testmonial>
       <Contact></Contact>
