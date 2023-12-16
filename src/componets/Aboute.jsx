@@ -2,7 +2,7 @@ import image from '../assets/About/Aboute.png'
 const Aboute = () => {
   return (
     <div>
-      <div className="container mx-auto px-12 mt-12 flex justify-between">
+      <div className="container mx-auto px-12 mt-12 flex justify-between mb-5">
           <div className=' w-3/4'>
           <h1 className="text-5xl text-slate-800 font-bold mt-10 ">About Us</h1>
           <p className=" mt-4 font-sans font-light w-[70%]">A business consultant is a professional with a wide array of skills who assists business owners with their endeavors. Consultants are knowledgeable because of their education and previous experience.</p>

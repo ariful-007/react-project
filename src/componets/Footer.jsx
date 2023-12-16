@@ -13,18 +13,18 @@ const Footer = () => {
 
           <div className=" flex gap-5 mt-3">
 
-          <div className=" w-14 h-14 bg-gray-900  rounded-full relative hover:bg-pink-600 ">
-            <a href="#" className=" absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%] text-gray-50 text-2xl font-bold" ><FaFacebookF /></a>
-          </div>
-          <div className=" w-14 h-14 bg-gray-900  rounded-full relative hover:bg-pink-600 ">
-            <a href="#" className=" absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%] text-gray-50 text-2xl font-bold" ><FaLinkedinIn /></a>
-          </div>
-          <div className=" w-14 h-14 bg-gray-900  rounded-full relative hover:bg-pink-600 ">
-            <a href="#" className=" absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%] text-gray-50 text-2xl font-bold" ><FaInstagram /></a>
-          </div>
-          <div className=" w-14 h-14 bg-gray-900  rounded-full relative hover:bg-pink-600 ">
-            <a href="#" className=" absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%] text-gray-50 text-2xl font-bold" ><FaTwitter /></a>
-          </div>
+            <div className=" w-14 h-14 bg-gray-900  rounded-full relative hover:bg-pink-600 ">
+              <a href="#" className=" absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%] text-gray-50 text-2xl font-bold" ><FaFacebookF /></a>
+            </div>
+            <div className=" w-14 h-14 bg-gray-900  rounded-full relative hover:bg-pink-600 ">
+              <a href="#" className=" absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%] text-gray-50 text-2xl font-bold" ><FaLinkedinIn /></a>
+            </div>
+            <div className=" w-14 h-14 bg-gray-900  rounded-full relative hover:bg-pink-600 ">
+              <a href="#" className=" absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%] text-gray-50 text-2xl font-bold" ><FaInstagram /></a>
+            </div>
+            <div className=" w-14 h-14 bg-gray-900  rounded-full relative hover:bg-pink-600 ">
+              <a href="#" className=" absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%] text-gray-50 text-2xl font-bold" ><FaTwitter /></a>
+            </div>
 
           </div>
         </div>
